@@ -1,7 +1,7 @@
 # OmniCorpus
 
 <!-- [[Project Page](https://mm-niah.github.io/)] -->
-[[Paper]()]
+[[Paper](https://arxiv.org/abs/2406.08418)]
 [[OmniCorpus-YT]()]
 [[OmniCorpus-CC-600M]()]
 [[OmniCorpus-CC-200M]()]
