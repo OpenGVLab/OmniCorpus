@@ -51,7 +51,7 @@ Please refer to our paper for more details about the data pipeline.
 
 ## Experimental Results
 
-We conduct a series of experiments to evluate the effectiveness of OmniCorpus. As shown in the table below, model trained on our dataset demonstrates superior performance on academic caption and vqa benchmarks.
+We conduct a series of experiments to evaluate the effectiveness of OmniCorpus. As shown in the table below, model trained on our dataset demonstrates superior performance on academic caption and vqa benchmarks.
 Please refer to our paper for more experimental results.
 
 <img width="735" alt="image" src="https://github.com/OpenGVLab/OmniCorpus/assets/47669167/a008f2d2-a8f0-484b-9b8b-d9c47e1067b4">
