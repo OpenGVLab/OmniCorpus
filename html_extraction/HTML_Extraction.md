@@ -6,7 +6,7 @@ In terms of accuracy, we have addressed the issue where trafilatura would overlo
 
 In terms of efficiency, we optimized the process based on HTML nodes and streamlined the processing pipeline by eliminating the fallback process in challenging cases. With these two improvements, we can not only extract more informative content from the main body but also double the speed of the extraction process.
 
-We present a demo to compare [extraction results of trafilatura](../demos/html_extraction_demo/demo_trafilatura_extraction.html) with [ours](../demos/html_extraction_demo/demo_trafilatura_extraction.html). (You can download and then browse with a browser.)
+We present a demo to compare [extraction results of trafilatura](./demo_trafilatura_extraction.html) with [ours](./demo_magic-html_extraction.html). (You can download and then browse them with webpage browser.)
 
 
 
