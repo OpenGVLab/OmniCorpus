@@ -1,0 +1,58 @@
+# Python
+__pycache__
+*.pyc
+*.egg-info
+dist
+
+# Log
+*.log
+*.log.*
+*.json
+*.jsonl
+
+# Data
+!**/alpaca-data-conversation.json
+
+# Editor
+.idea
+*.swp
+
+# Other
+.DS_Store
+wandb
+output
+
+checkpoints
+ckpts*
+
+.ipynb_checkpoints
+*.ipynb
+
+# DevContainer
+!.devcontainer/*
+
+# Demo
+serve_images/
+
+# data links
+playground/data/coco
+playground/data/data_path.txt
+playground/data/gqa
+playground/data/ocr_vqa
+playground/data/textvqa
+playground/data/vg
+playground/data/LLaVA-Pretrain/images
+playground/data/eval*
+
+# lqy custom
+runnings_*/*/*
+yt-sb-1b/*
+batchscript-*
+phoenix-slurm-*
+tmp*
+slurm_out/*
+slurm_out_*/*
+unit_test/mmc4_img_num/*
+cached_features_*
+unit_test/test_internlm2_tokenizer/*
+playground/data/lmms_eval_logs/*

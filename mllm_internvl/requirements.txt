@@ -1,0 +1,13 @@
+scikit-learn
+pycocoevalcap
+einops_exts
+opencv-python
+imageio
+decord
+nltk
+inflection
+termcolor
+yacs
+pyyaml
+scipy
+tqdm
