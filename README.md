@@ -1,7 +1,10 @@
 # OmniCorpus
 
 [[Paper](https://arxiv.org/abs/2406.08418)]
-[[OmniCorpus-CC-210M (Huggingface)](https://huggingface.co/datasets/OpenGVLab/OmniCorpus-CC-210M)]
+[[OmniCorpus-CC-210M](https://huggingface.co/datasets/OpenGVLab/OmniCorpus-CC-210M)]
+[[OmniCorpus-CC](https://huggingface.co/datasets/OpenGVLab/OmniCorpus-CC)]
+[[OmniCorpus-YT](https://huggingface.co/datasets/OpenGVLab/OmniCorpus-YT)]
+[[OmniCorpus-CW]()]
 [[OpenDataLab Data]()]
 [[Model]()]
 
@@ -13,7 +16,7 @@
 
 - [X] Release OmniCorpus-CC-200M
 - [ ] Release OmniCorpus-CC
-- [ ] Release OmniCorpus-YT
+- [x] Release OmniCorpus-YT
 - [ ] Release OmniCorpus-CW
 - [X] Release HTML extraction toolkit
 - [X] Release Human-Feedback filtering functions
