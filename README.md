@@ -5,8 +5,7 @@
 [[OmniCorpus-CC](https://huggingface.co/datasets/OpenGVLab/OmniCorpus-CC)]
 [[OmniCorpus-YT](https://huggingface.co/datasets/OpenGVLab/OmniCorpus-YT)]
 [[OmniCorpus-CW]()]
-[[OpenDataLab Data]()]
-[[Model]()]
+[[Model](https://huggingface.co/Qingyun/OmniCorpus-InternVL)]
 
 ## News🚀🚀🚀
 
