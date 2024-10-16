@@ -1,6 +1,6 @@
 # InternVL-Chat Pre-trained with OmniCorpus
 
-This folder contains the interleaved image-text implementation for InternVL-Chat. Welcome to use [InternVL-family](https://github.com/OpenGVLab/InternVL). Our checkpoint is availiable [here]().
+This folder contains the interleaved image-text implementation for InternVL-Chat. Welcome to use [InternVL-family](https://github.com/OpenGVLab/InternVL). Our checkpoint is availiable [here](https://huggingface.co/Qingyun/OmniCorpus-InternVL).
 
 ## 🛠️ Installation
 
