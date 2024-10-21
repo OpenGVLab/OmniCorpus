@@ -14,9 +14,9 @@
 ## Schedule
 
 - [X] Release OmniCorpus-CC-200M
-- [ ] Release OmniCorpus-CC
-- [x] Release OmniCorpus-YT
-- [ ] Release OmniCorpus-CW
+- [ ] Release OmniCorpus-CC (Uploading!)
+- [X] Release OmniCorpus-YT
+- [X] Release OmniCorpus-CW
 - [X] Release HTML extraction toolkit
 - [X] Release Human-Feedback filtering functions
 - [X] Release code for interleaved image-text pre-training and few-shot evaluation toolkit
@@ -32,14 +32,6 @@ This dataset demonstrates several advantages over its counterparts:
 
 <img width="578" alt="image" src="https://github.com/OpenGVLab/OmniCorpus/assets/47669167/641a6427-ba50-41e6-8634-8810113fd803">
 
-Some examples:
-
-<img width="719" alt="image" src="https://github.com/OpenGVLab/OmniCorpus/assets/47669167/17759b19-a494-4b2b-a10d-a73359999141">
-
-<img width="372" alt="image" src="https://github.com/OpenGVLab/OmniCorpus/assets/47669167/a4f02355-8d67-45ab-a4b1-957112b4b721">
-
-<img width="374" alt="image" src="https://github.com/OpenGVLab/OmniCorpus/assets/47669167/2f85506c-f4db-40c8-bf45-9ea9230f22e8">
-
 ## Data Pipeline
 
 Our data pipeline consists of five key stages: main body extraction, preliminary text filtering, document deduplication, image downloading \& filtering, and detailed text filtering. Each stage efficiently reduces the dataset to retain only high-quality data.
@@ -52,4 +44,6 @@ Please refer to our paper for more details about the data pipeline.
 We conduct a series of experiments to evaluate the effectiveness of OmniCorpus. As shown in the table below, model trained on our dataset demonstrates superior performance on academic caption and vqa benchmarks.
 Please refer to our paper for more experimental results.
 
-<img width="735" alt="image" src="https://github.com/OpenGVLab/OmniCorpus/assets/47669167/a008f2d2-a8f0-484b-9b8b-d9c47e1067b4">
+> (2024.10): We've updated the results with a [stronger pre-trained model](https://huggingface.co/Qingyun/OmniCorpus-InternVL).
+
+<img width="735" alt="image" src="https://github.com/user-attachments/assets/d705f04e-1355-4a40-9b1a-9d6a9490f199">
