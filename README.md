@@ -68,11 +68,19 @@ Please refer to our paper for more experimental results.
 - [X] Release Human-Feedback filtering functions
 - [X] Release code for interleaved image-text pre-training and few-shot evaluation toolkit
 
-# License
+## Contact
+
+- Qingyun Li: 21b905003@stu.hit.edu.cn
+- Zhe Chen: chenzhe98@smail.nju.edu.cn
+- Weiyun Wang: wangweiyun@pjlab.org.cn
+- Wenhai Wang: wangwenhai@pjlab.org.cn
+- Shenglong Ye: yeshenglong@pjlab.org.cn
+
+## License
 
 OmniCorpus dataset is released under a [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en) license, with the primary intent of supporting research activities. 
 
-# Citation
+## Citation
 
 ```
 @article{li2024omnicorpus,
