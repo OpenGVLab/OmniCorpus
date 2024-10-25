@@ -63,9 +63,9 @@ Please refer to our paper for more experimental results.
 - [X] Release OmniCorpus-YT
 - [X] Release OmniCorpus-CW
 - [X] Release Model
-- [X] Release English HTML extraction toolkit
-- [ ] Release Chinese HTML extraction toolkit
-- [X] Release Human-Feedback filtering functions
+- [X] Release HTML extraction toolkit
+- [ ] Release Chinese Human-Feedback filtering functions
+- [X] Release English Human-Feedback filtering functions
 - [X] Release code for interleaved image-text pre-training and few-shot evaluation toolkit
 
 ## Contact
