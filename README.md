@@ -59,7 +59,7 @@ Please refer to our paper for more experimental results.
 ## Schedule
 
 - [X] Release OmniCorpus-CC-200M
-- [ ] Release OmniCorpus-CC (Uploading!)
+- [X] Release OmniCorpus-CC
 - [X] Release OmniCorpus-YT
 - [X] Release OmniCorpus-CW
 - [X] Release Model
