@@ -18,7 +18,7 @@
 
 ## Introduction
 
-OmniCorpus dataset is the largest multimodal dataset to date, which pushes the boundaries of scale and diversity by encompassing 8.6 billion images interleaved with 1,696 text tokens from diverse sources, significantly surpassing previous datasets.
+OmniCorpus dataset is the largest multimodal dataset to date, which pushes the boundaries of scale and diversity by encompassing 8.6 billion images interleaved with 1,696 billion text tokens from diverse sources, significantly surpassing previous datasets.
 This dataset demonstrates several advantages over its counterparts:
 
 1. **Larger data scale:** Our dataset is 1.7 times larger in images and 12.5 times larger in texts compared to the previously largest multimodal dataset, LAION-5B, while maintaining excellent data quality.
