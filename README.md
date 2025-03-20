@@ -1,4 +1,6 @@
-# OmniCorpus
+<p align="center">
+  <h1 align="center">🐳 OmniCorpus: A Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text</h1>
+</p>
 
 [Paper](https://arxiv.org/abs/2406.08418) | 
 [OmniCorpus-CC](https://huggingface.co/datasets/OpenGVLab/OmniCorpus-CC) | 
@@ -9,12 +11,13 @@
 
 ## News 🚀🚀🚀
 
-- `2024/10/22`: 🚀 We release all the processed documents on [Hugging Face](https://huggingface.co/collections/OpenGVLab/omnicorpus-6709d180dc8f500b508e195f) and [OpenDataLab](https://openxlab.org.cn/datasets/Li-Qingyun/OmniCorpus-CW) platforms.
-- `2024/10/14`: 🚀 We release a new 7B InternVL [model](https://huggingface.co/Qingyun/OmniCorpus-InternVL) pre-trained with OmniCorpus. See [here](https://github.com/OpenGVLab/OmniCorpus?tab=readme-ov-file#experimental-results) for updated results.
-- `2024/08/30`: 🚀 We release 210 million filtered documents with meta-annotations, i.e., [OmniCorpus-CC-210M](https://huggingface.co/datasets/OpenGVLab/OmniCorpus-CC-210M) on Hugging Face.
-- `2024/08/23`: 🚀 The code for interleaved image-text pre-training with OmniCorpus, along with scripts for few-shot evaluation, are available. The developed human-feedback filtering functions for English documents and enhanced mainbody extraction tools are also available.
-- `2024/07/04`: 🚀 [InternVL2-Pro](https://internvl.github.io/blog/2024-07-02-InternVL-2.0/) is released. OmniCorpus provide the interleaved data used in Stage-1 training.
-- `2024/06/13`: 🚀 We introduce OmniCorpus, a 10 billion-level image-text interleaved dataset. This dataset contains 8.6 billion images, 1,696 billion text tokens, and 2.2 billion documents!
+- `2025/02/11`: 🎉 OmniCorpus is accepted by ICLR 2025!
+- `2024/10/22`: We release all the processed 📄 documents on [🤗 Hugging Face](https://huggingface.co/collections/OpenGVLab/omnicorpus-6709d180dc8f500b508e195f) and [OpenDataLab](https://openxlab.org.cn/datasets/Li-Qingyun/OmniCorpus-CW) platforms.
+- `2024/10/14`: We release a new 7B InternVL [model](https://huggingface.co/Qingyun/OmniCorpus-InternVL) pre-trained with OmniCorpus. See [here](https://github.com/OpenGVLab/OmniCorpus?tab=readme-ov-file#experimental-results) for updated results.
+- `2024/08/30`: We release 210 million filtered documents with meta-annotations, i.e., [OmniCorpus-CC-210M](https://huggingface.co/datasets/OpenGVLab/OmniCorpus-CC-210M) on Hugging Face.
+- `2024/08/23`: The code for interleaved image-text pre-training with OmniCorpus, along with scripts for few-shot evaluation, are available. The developed human-feedback filtering functions for English documents and enhanced mainbody extraction tools are also available.
+- `2024/07/04`: 🔥 [InternVL2-Pro](https://internvl.github.io/blog/2024-07-02-InternVL-2.0/) is released. OmniCorpus provide the interleaved data used in Stage-1 training.
+- `2024/06/13`: We introduce 🐳 OmniCorpus, a 10 billion-level image-text interleaved dataset. This dataset contains 8.6 billion images, 1,696 billion text tokens, and 2.2 billion documents!
 
 ## Introduction
 
@@ -52,21 +55,7 @@ Please refer to our paper for more details about the data pipeline.
 We conduct a series of experiments to evaluate the effectiveness of OmniCorpus. As shown in the table below, model trained on our dataset demonstrates superior performance on academic caption and vqa benchmarks.
 Please refer to our paper for more experimental results.
 
-> (2024.10): We've updated the results with a [stronger pre-trained model](https://huggingface.co/Qingyun/OmniCorpus-InternVL).
-
 <img width="735" alt="image" src="https://github.com/user-attachments/assets/d705f04e-1355-4a40-9b1a-9d6a9490f199">
-
-## Schedule
-
-- [X] Release OmniCorpus-CC-200M
-- [X] Release OmniCorpus-CC
-- [X] Release OmniCorpus-YT
-- [X] Release OmniCorpus-CW
-- [X] Release Model
-- [X] Release HTML extraction toolkit
-- [ ] Release Chinese Human-Feedback filtering functions
-- [X] Release English Human-Feedback filtering functions
-- [X] Release code for interleaved image-text pre-training and few-shot evaluation toolkit
 
 ## Contact
 
@@ -76,16 +65,25 @@ Please refer to our paper for more experimental results.
 - Wenhai Wang: wangwenhai@pjlab.org.cn
 - Shenglong Ye: yeshenglong@pjlab.org.cn
 
-## License
+## License and Terms of Use
+The OmniCorpus dataset is distributed under [the CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/). The open-source code is released under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). 
 
-OmniCorpus dataset is released under a [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en) license, with the primary intent of supporting research activities. 
+The Terms of Use (ToUs) have been developed based on widely accepted standards. By accessing or using this dataset, users acknowledge their responsibility to comply with all relevant legal, regulatory, and ethical standards.
+- All users, whether from academia or industry, must comply with the ToUs outlined in the CC BY 4.0 License.
+- Any derived datasets or models must acknowledge the use of the OmniCorpus dataset to maintain transparency.
+- The OmniCorpus must not be used in any project involving sensitive content or harmful outcomes, including but not limited to political manipulation, hate speech generation, misinformation propagation, or tasks that perpetuate harmful stereotypes or biases. 
+- The use of this dataset in any manner that violates rights, such as copyright infringement, privacy breaches, or misuse of sensitive information, is strictly prohibited.
+- While we do not enforce jurisdiction-specific terms, we strongly recommend that users ensure compliance with applicable local laws and regulations.
+- The use of specific subset must comply with the ToUs of the primary source. Specifically, the use of OmniCorpus-CC, OmniCorpus-CW, and OmniCorpus-YT must comply with [the Common Crawl ToUs](https://commoncrawl.org/terms-of-use), the [regulations](https://www.gov.cn/zhengce/content/202409/content\_6977766.htm) on the security management of Internet data in China, and [YouTube’s ToUs](https://www.youtube.com/terms), respectively.
+- These ToUs do not supersede the ToUs of the original content sources. Users must ensure that any use of the dataset’s content complies with the original ToUs and the rights of the data subjects.
 
 ## Citation
 
 ```
-@article{li2024omnicorpus,
+@inproceedings{li2024omnicorpus,
   title={OmniCorpus: A Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text},
   author={Li, Qingyun and Chen, Zhe and Wang, Weiyun and Wang, Wenhai and Ye, Shenglong and Jin, Zhenjiang and others},
-  journal={arXiv preprint arXiv:2406.08418},
-  year={2024}
+  booktitle={The Thirteenth International Conference on Learning Representations},
+  year={2025}
 }
+```
