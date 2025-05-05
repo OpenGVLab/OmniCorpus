@@ -2,7 +2,7 @@
   <h1 align="center">🐳 OmniCorpus: A Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text</h1>
 </p>
 
-[Paper](https://arxiv.org/abs/2406.08418) | 
+[Paper](https://openreview.net/pdf?id=kwqhn2VuG4) | 
 [OmniCorpus-CC](https://huggingface.co/datasets/OpenGVLab/OmniCorpus-CC) | 
 [OmniCorpus-YT](https://huggingface.co/datasets/OpenGVLab/OmniCorpus-YT) | 
 [OmniCorpus-CW](https://openxlab.org.cn/datasets/Li-Qingyun/OmniCorpus-CW) | 
